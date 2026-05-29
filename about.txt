@@ -1,0 +1,19 @@
+Professional Bio
+
+Name: Lyca Jimenez
+Customer ID: 22
+
+I am a dedicated student learning software development and version control systems. 
+Currently focused on mastering Git and GitHub workflows for collaborative development.
+
+Skills:
+- Programming and Software Development
+- Version Control with Git
+- Team Collaboration
+- Problem Solving
+
+Education:
+Currently pursuing studies in technology and software development.
+
+Goals:
+To become proficient in modern development practices and contribute to meaningful projects.
