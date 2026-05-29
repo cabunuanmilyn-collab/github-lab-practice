@@ -1,4 +1,4 @@
-# GitHub Lab Practice
+# This is a Collaborative Project - GitHub Lab Practice
 
 This repository is created for learning Git and GitHub workflows.
 
