@@ -1,7 +1,6 @@
 Professional Bio
 
-Name: Lyca Jimenez
-Customer ID: 22
+Name: Milyn E. Cabunuan
 
 I am a dedicated student learning software development and version control systems. 
 Currently focused on mastering Git and GitHub workflows for collaborative development.
